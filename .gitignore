@@ -1,0 +1,6 @@
+# Pastas geradas na compilação (não vão para o GitHub)
+bin/
+obj/
+.vs/
+*.user
+*.suo
